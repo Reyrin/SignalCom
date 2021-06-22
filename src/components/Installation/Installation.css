@@ -1,0 +1,17 @@
+.Installation {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.Installation__link {
+    display: block;
+    max-width: 230px;
+    max-height: 70px;
+    margin: 0 auto;
+}
+
+.Installation__img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}

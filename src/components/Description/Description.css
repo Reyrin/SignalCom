@@ -1,0 +1,23 @@
+.Description {
+    max-width: 805px;
+    text-align: left;
+}
+
+.Description__link {
+    color: #0070C0;
+}
+
+.Description__bold {
+    font-weight: bold;
+}
+
+.Description__company {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Description__link--center {
+    display: block;
+    text-align: center;
+}

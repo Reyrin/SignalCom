@@ -1,0 +1,31 @@
+.Activation__title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.Activation__qr {
+    display: block;
+    margin: 0 auto;
+    width: 245px;
+    height: 245px;
+}
+
+.Activation__or {
+    display: block;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.Activation__btn {
+    color: #fff;
+    text-decoration: none;
+    line-height: 3;
+    display: block;
+    width: 230px;
+    height: 55px;
+    margin: 0 auto;
+    background-color: #15d798;
+    border-radius: 11px;
+
+}

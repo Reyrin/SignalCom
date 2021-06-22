@@ -1,0 +1,13 @@
+.Payment {
+
+}
+
+.Payment__title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Payment__name,
+.Payment__order {
+    font-weight: bold;
+}
